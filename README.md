@@ -16,7 +16,7 @@ Atividade de criação de um portal de tecnologia utilizando HTML e CSS, com foc
 - Layout responsivo
 
 ## Arquivos
-- `index.html`
+- `10a_desafio.html`
 - `10a_desafio.css`
 
 ## Objetivo
